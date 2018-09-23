@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	props: {
 		/**
 		 * Toggles the adding of a 'loading' class to the main
